@@ -2,3 +2,7 @@
 *.log
 *.gz
 *.out
+
+*_Natarajan.tex
+*_Natarajan.pdf
+Letters/**
